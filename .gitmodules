@@ -1,0 +1,9 @@
+[submodule "account/mini_account"]
+	path = account/mini_account
+	url = https://github.com/Dendroh/mini-dooray-account-team10
+[submodule "gateway/mini_gateway"]
+	path = gateway/mini_gateway
+	url = https://github.com/Dendroh/mini-dooray-gateway-team10
+[submodule "project/mini_project"]
+	path = project/mini_project
+	url = https://github.com/Dendroh/mini-dooray-project-team10
